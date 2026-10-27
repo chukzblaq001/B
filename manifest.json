@@ -1,0 +1,14 @@
+{
+  "id": "./",
+  "name": "BIOLEARN — Free Offline Biology",
+  "short_name": "BIOLEARN",
+  "description": "Free offline Biology lessons and quizzes for learners in Nigeria.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbfdfb",
+  "theme_color": "#18794e",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
